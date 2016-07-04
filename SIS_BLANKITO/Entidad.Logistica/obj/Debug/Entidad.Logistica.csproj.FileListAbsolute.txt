@@ -1,0 +1,29 @@
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.csprojResolveAssemblyReference.cache
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.csprojResolveAssemblyReference.cache
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.csprojResolveAssemblyReference.cache
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Logistica\bin\Debug\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Logistica\obj\Debug\Entidad.Logistica.pdb

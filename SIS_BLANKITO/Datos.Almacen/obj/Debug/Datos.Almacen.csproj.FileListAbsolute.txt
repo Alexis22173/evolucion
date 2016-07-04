@@ -1,0 +1,171 @@
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.csprojResolveAssemblyReference.cache
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.pdb
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.dll
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.pdb
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.dll
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.dll
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.dll
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.dll
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.dll
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.dll
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.dll
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.pdb
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.pdb
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.pdb
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.pdb
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.pdb
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.pdb
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.pdb
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.csprojResolveAssemblyReference.cache
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.dll
+F:\PROYINT II\VERSION 2\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.csprojResolveAssemblyReference.cache
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN - V3\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.csprojResolveAssemblyReference.cache
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.csprojResolveAssemblyReference.cache
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.pdb
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.dll
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.pdb
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.dll
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.dll
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.dll
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.dll
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.dll
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.dll
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.dll
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.pdb
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.pdb
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.pdb
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.pdb
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.pdb
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.pdb
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.pdb
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.csprojResolveAssemblyReference.cache
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.dll
+I:\PROYINT 2\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.csprojResolveAssemblyReference.cache
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Datos.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\bin\Debug\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Almacen\obj\Debug\Datos.Almacen.pdb

@@ -1,0 +1,108 @@
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Capa_Presentacion.dll.config
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Capa_Presentacion.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Capa_Presentacion.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Almacen.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Compras.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Logistica.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Produccion.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.RRHH.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Ventas.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Almacen.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Compras.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Logistica.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Produccion.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.RRHH.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Ventas.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Almacen.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Compras.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Logistica.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Produccion.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.RRHH.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Ventas.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Almacen.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Compras.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Comunes.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Logistica.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Produccion.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.RRHH.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Seguridad.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Ventas.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Almacen.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Compras.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Comunes.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Logistica.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Produccion.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.RRHH.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Seguridad.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Ventas.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Almacen.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Compras.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Comunes.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Logistica.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Produccion.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.RRHH.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Seguridad.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Ventas.pdb
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\obj\Release\Capa_Presentacion.csprojResolveAssemblyReference.cache
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\obj\Release\Capa_Presentacion.dll
+G:\PROYINT 2\SIS_BLANKITO\Capa_Presentacion\obj\Release\Capa_Presentacion.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Capa_Presentacion.dll.config
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Capa_Presentacion.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Capa_Presentacion.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Compras.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Produccion.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Ventas.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Compras.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Produccion.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Ventas.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Compras.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Produccion.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Ventas.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Compras.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Produccion.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Datos.Ventas.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Compras.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Produccion.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Entidad.Ventas.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Compras.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Produccion.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\bin\Negocio.Ventas.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\obj\Release\Capa_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\obj\Release\Capa_Presentacion.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Capa_Presentacion\obj\Release\Capa_Presentacion.pdb

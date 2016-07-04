@@ -1,0 +1,42 @@
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.csprojResolveAssemblyReference.cache
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.csprojResolveAssemblyReference.cache
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.csprojResolveAssemblyReference.cache
+I:\PROYINT 2\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.csprojResolveAssemblyReference.cache
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.RRHH\bin\Debug\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.RRHH\obj\Debug\Entidad.RRHH.pdb

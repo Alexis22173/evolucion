@@ -1,0 +1,30 @@
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Ventas.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Ventas.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Almacen.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Logistica.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.RRHH.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Almacen.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Comunes.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Logistica.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Seguridad.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.RRHH.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\obj\Release\Entidad.Ventas.csprojResolveAssemblyReference.cache
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\obj\Release\Entidad.Ventas.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Ventas\obj\Release\Entidad.Ventas.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Ventas.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Ventas.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\bin\Release\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\obj\Release\Entidad.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\obj\Release\Entidad.Ventas.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Ventas\obj\Release\Entidad.Ventas.pdb

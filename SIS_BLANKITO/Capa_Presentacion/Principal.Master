@@ -1,0 +1,299 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="Capa_Presentacion.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Blankito</title>
+
+    <!-- Vendor CSS -->
+    <link href="src/vendors/bootgrid/jquery.bootgrid.min.css" rel="stylesheet" />
+    <link href="src/vendors/animate-css/animate.min.css" rel="stylesheet" />
+    <link href="src/vendors/sweet-alert/sweet-alert.min.css" rel="stylesheet" />
+    <link href="src/vendors/material-icons/material-design-iconic-font.min.css" rel="stylesheet" />
+    <link href="src/vendors/socicon/socicon.min.css" rel="stylesheet" />
+
+
+    <!-- CSS -->
+    <link href="src/css/app.min.1.css" rel="stylesheet" />
+    <link href="src/css/app.min.2.css" rel="stylesheet" />
+
+    <script type="text/javascript" src="<%=ResolveUrl("src/js/jquery-2.1.1.min.js")%>"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <header id="header">
+        <ul class="header-inner">
+            <li id="menu-trigger" data-trigger="#sidebar">
+                <div class="line-wrap">
+                    <div class="line top"></div>
+                    <div class="line center"></div>
+                    <div class="line bottom"></div>
+                </div>
+            </li>
+
+            <li class="logo hidden-xs">
+                <a href="Inicio.aspx">INTRANET BLANKITO</a>
+            </li>
+
+            <li class="pull-right">
+                <ul class="top-menu">
+
+                    <li id="toggle-width">
+                        <div class="toggle-switch">
+                            <input id="tw-switch" type="checkbox" hidden="hidden" />
+                            <label for="tw-switch" class="ts-helper"></label>
+                        </div>
+                    </li>
+
+                    <li class="dropdown">
+                        <a data-toggle="dropdown" class="tm-message" href="#"><i class="tmn-counts">6</i></a>
+                        <div class="dropdown-menu dropdown-menu-lg pull-right">
+                            <div class="listview">
+                                <div class="lv-header">
+                                    Mensajes                               
+                                </div>
+                                <div class="lv-body c-overflow">
+                                    <a class="lv-item" href="#">
+                                        <div class="media">
+                                            <div class="pull-left">
+                                                <img class="lv-img-sm" src="<%=ResolveUrl("~/src/img/profile-pics/1.jpg")%>" alt="" />
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="lv-title">David Belle</div>
+                                                <small class="lv-small">Cum sociis natoque penatibus et magnis dis parturient montes</small>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <a class="lv-footer" href="#">View All</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="dropdown">
+                        <a data-toggle="dropdown" class="tm-notification" href="#"><i class="tmn-counts">9</i></a>
+                        <div class="dropdown-menu dropdown-menu-lg pull-right">
+                            <div class="listview" id="notifications">
+                                <div class="lv-header">
+                                    Notificaciones
+                                <ul class="actions">
+                                    <li class="dropdown">
+                                        <a href="#" data-clear="notification">
+                                            <i class="md md-done-all"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                                </div>
+                                <div class="lv-body c-overflow">
+                                    <a class="lv-item" href="#">
+                                        <div class="media">
+                                            <div class="pull-left">
+                                                <img class="lv-img-sm" src="<%=ResolveUrl("~/src/img/profile-pics/1.jpg")%>" alt="" />
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="lv-title">David Belle</div>
+                                                <small class="lv-small">Cum sociis natoque penatibus et magnis dis parturient montes</small>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <a class="lv-footer" href="#">View Previous</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="dropdown">
+                        <a data-toggle="dropdown" class="tm-settings" href="#"></a>
+                        <ul class="dropdown-menu dm-icon pull-right">
+                            <li>
+                                <a data-action="fullscreen" href="#"><i class="md md-fullscreen"></i>Pantalla Completa</a>
+                            </li>
+                            <li>
+                                <a data-action="clear-localstorage" href="#"><i class="md md-delete"></i>Limpiar Historial Web</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="md md-person"></i>Cerrar Sesión</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                </ul>
+            </li>
+        </ul>
+    </header>
+
+    <section id="main">
+        <aside id="sidebar">
+            <div class="sidebar-inner">
+                <div class="si-inner">
+                    <div class="profile-menu">
+                        <a href="#">
+                            <div class="profile-pic">
+                                <img src="<%=ResolveUrl("~/src/img/profile-pics/1.jpg")%>" alt="" />
+                            </div>
+
+                            <div class="profile-info">
+                                <div runat="server" id="lblUsuario">Malinda Hollaway</div>
+                                <i class="md md-arrow-drop-down"></i>
+                            </div>
+                        </a>
+
+                        <ul class="main-menu">
+                            <li>
+                                <a href="profile-about.html"><i class="md md-person"></i>Ver Perfil</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="md md-history"></i>Cerrar Sesión</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <ul class="main-menu">
+                        <li id="menu-inicio"><a href="<%=ResolveUrl("~/Inicio.aspx")%>"><i class="md md-home"></i>Inicio</a></li>
+
+                        <li class="sub-menu" id="menu-almacen">
+                            <a href="#"><i class="md md-menu"></i>Gestionar Almacén</a>
+                            <ul>
+                                <li id="ma-categoria"><a href="<%=ResolveUrl("~/GestionarAlmacen/gestionarCategoria.aspx")%>">Categoria</a></li>
+                                <li id="ma-marca"><a href="<%=ResolveUrl("~/GestionarAlmacen/gestionarMarca.aspx")%>">Marca</a></li>
+                                <li id="ma-notaingreso"><a href="<%=ResolveUrl("~/GestionarAlmacen/gestionarNotaIngreso.aspx")%>">Nota Ingreso</a></li>
+                                <li id="ma-producto"><a href="<%=ResolveUrl("~/GestionarAlmacen/gestionarProducto.aspx")%>">Producto</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="sub-menu" id="menu-compra">
+                            <a href="#"><i class="md md-content-paste"></i>Gestionar Compra</a>
+                            <ul>
+                                <li id="mc-compra"><a href="<%=ResolveUrl("~/GestionarCompra/gestionarCompra.aspx")%>">Compra</a></li>
+                                <li id="mc-contacto"><a href="<%=ResolveUrl("~/GestionarCompra/gestionarContactoProveedor.aspx")%>">Contacto Proveedor</a></li>
+                                <li id="mc-cuepro"><a href="<%=ResolveUrl("~/GestionarCompra/gestionarCuentaProveedor.aspx")%>">Cuenta Proveedor</a></li>
+                                <li id="mc-orden"><a href="<%=ResolveUrl("~/GestionarCompra/gestionarOrdenCompra.aspx")%>">Orden</a></li>
+                                <li id="mc-proveedor"><a href="<%=ResolveUrl("~/GestionarCompra/gestionarProveedor.aspx")%>">Proveedor</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="sub-menu" id="menu-logistica">
+                            <a href="#"><i class="md md-domain"></i>Gestionar Logistica</a>
+                            <ul>
+                                <li id="ml-sucursal"><a href="<%=ResolveUrl("~/GestionarLogistica/gestionarSucursal.aspx")%>">Sucursal</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="sub-menu" id="menu-maestro">
+                            <a href="#"><i class="md md-view-list"></i>Gestionar Maestro</a>
+                            <ul>
+                                <li id="mm-tcliente"><a href="<%=ResolveUrl("~/GestionarVenta/gestionarTipoCliente.aspx")%>">Tipo Cliente</a></li>
+                                <li id="mm-tdocumento"><a href="<%=ResolveUrl("~/GestionarMaestros/gestionarTipoDocumento.aspx")%>">Tipo Documento</a></li>
+                                <li id="mm-tmoneda"><a href="<%=ResolveUrl("~/GestionarLogistica/gestionarMoneda.aspx")%>">Tipo Moneda</a></li>
+                                <li id="mm-tpago"><a href="<%=ResolveUrl("~/GestionarMaestros/gestionarTipoPago.aspx")%>">Tipo Pago</a></li>
+                                <li id="mm-tpersonal"><a href="<%=ResolveUrl("~/GestionarRRHH/gestionarTipoPersonal.aspx")%>">Tipo Personal</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="sub-menu" id="menu-produccion">
+                            <a href="#"><i class="md md-equalizer"></i>Gestionar Producción</a>
+                            <ul>
+                                <li id="mp-orden"><a href="<%=ResolveUrl("~/GestionarProduccion/gestionarOrdenProduccion.aspx")%>">Orden</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="sub-menu" id="menu-venta">
+                            <a href="#"><i class="md md-my-library-books"></i>Gestionar Venta</a>
+                            <ul>
+                                <li id="mv-caja"><a href="<%=ResolveUrl("~/GestionarVenta/gestionarVenta.aspx")%>">Caja</a></li>
+                                <li id="mv-cliente"><a href="<%=ResolveUrl("~/GestionarVenta/gestionarCliente.aspx")%>">Cliente</a></li>
+                                <li id="mv-cuecli"><a href="<%=ResolveUrl("~/GestionarVenta/gestionarCuentaCliente.aspx")%>">Cuenta Cliente</a></li>
+                                <li id="mv-pedido"><a href="<%=ResolveUrl("~/GestionarVenta/gestionarPedido.aspx")%>">Pedido</a></li>
+                            </ul>
+                        </li>
+
+<%--                        <li class="sub-menu">
+                            <a href="#"><i class="md md-view-list"></i>Tables</a>
+
+                            <ul>
+                                <li><a href="tables.html">Normal Tables</a></li>
+                                <li><a href="data-tables.html">Data Tables</a></li>
+                            </ul>
+                        </li>
+                        <li class="sub-menu">
+                            <a href="#"><i class="md md-my-library-books"></i>Forms</a>
+
+                            <ul>
+                                <li><a href="form-elements.html">Basic Form Elements</a></li>
+                                <li><a href="form-components.html">Form Components</a></li>
+                                <li><a href="form-examples.html">Form Examples</a></li>
+                                <li><a href="form-validations.html">Form Validation</a></li>
+                            </ul>
+                        </li>
+                        <li class="sub-menu">
+                            <a href="#"><i class="md md-swap-calls"></i>User Interface</a>
+                            <ul>
+                                <li><a href="colors.html">Colors</a></li>
+                                <li><a href="animations.html">Animations</a></li>
+                                <li><a href="box-shadow.html">Box Shadow</a></li>
+                                <li><a href="buttons.html">Buttons</a></li>
+                                <li><a href="icons.html">Icons</a></li>
+                                <li><a href="alerts.html">Alerts</a></li>
+                                <li><a href="notification-dialog.html">Notifications & Dialogs</a></li>
+                                <li><a href="media.html">Media</a></li>
+                                <li><a href="components.html">Components</a></li>
+                                <li><a href="other-components.html">Others</a></li>
+                            </ul>
+                        </li>
+                        <li class="sub-menu">
+                            <a href="#"><i class="md md-trending-up"></i>Charts</a>
+                            <ul>
+                                <li><a href="flot-charts.html">Flot Charts</a></li>
+                                <li><a href="other-charts.html">Other Charts</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="calendar.html"><i class="md md-today"></i>Calendar</a></li>
+                        <li><a href="generic-classes.html"><i class="md md-layers"></i>Generic Classes</a></li>
+                        <li class="sub-menu">
+                            <a href="#"><i class="md md-content-copy"></i>Sample Pages</a>
+                            <ul>
+                                <li><a href="profile-about.html">Profile</a></li>
+                                <li><a href="list-view.html">List View</a></li>
+                                <li><a href="messages.html">Messages</a></li>
+                                <li><a href="login.html">Login and Sign Up</a></li>
+                                <li><a href="404.html">Error 404</a></li>
+                            </ul>
+                        </li>--%>
+                    </ul>
+                </div>
+            </div>
+        </aside>
+        <section id="content">
+            <div class="container">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </section>
+    </section>
+
+
+    <script type="text/javascript" src="<%=ResolveUrl("src/js/jquery-2.1.1.min.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/js/bootstrap.min.js")%>"></script>
+
+    <script type="text/javascript" src="<%=ResolveUrl("src/vendors/moment/moment.min.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/vendors/nicescroll/jquery.nicescroll.min.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/vendors/bootstrap-select/bootstrap-select.min.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/vendors/chosen/chosen.jquery.min.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/vendors/bootgrid/jquery.bootgrid.min.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/vendors/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/vendors/waves/waves.min.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/vendors/bootstrap-growl/bootstrap-growl.min.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/vendors/sweet-alert/sweet-alert.min.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/vendors/sparklines/jquery.sparkline.min.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/vendors/easypiechart/jquery.easypiechart.min.js")%>"></script>
+
+    <script type="text/javascript" src="<%=ResolveUrl("src/js/charts.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/js/functions.js")%>"></script>
+    <script type="text/javascript" src="<%=ResolveUrl("src/js/Base.js")%>"></script>
+</body>
+</html>

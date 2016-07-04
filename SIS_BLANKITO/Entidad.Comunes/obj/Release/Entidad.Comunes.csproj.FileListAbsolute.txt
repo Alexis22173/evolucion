@@ -1,0 +1,14 @@
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Comunes\bin\Release\Entidad.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Comunes\bin\Release\Entidad.Comunes.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Comunes\bin\Release\Entidad.Logistica.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Comunes\bin\Release\Entidad.Logistica.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Comunes\obj\Release\Entidad.Comunes.csprojResolveAssemblyReference.cache
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Comunes\obj\Release\Entidad.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Comunes\obj\Release\Entidad.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Comunes\bin\Release\Entidad.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Comunes\bin\Release\Entidad.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Comunes\bin\Release\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Comunes\bin\Release\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Comunes\obj\Release\Entidad.Comunes.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Comunes\obj\Release\Entidad.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Comunes\obj\Release\Entidad.Comunes.pdb

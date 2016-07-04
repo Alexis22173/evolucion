@@ -1,0 +1,657 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{234B576E-090A-4BFA-99DD-7CD0BAF7173D}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Capa_Presentacion</RootNamespace>
+    <AssemblyName>Capa_Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GestionarAlmacen\gestionarCategoria.aspx" />
+    <Content Include="GestionarAlmacen\gestionarNotaIngreso.aspx" />
+    <Content Include="GestionarAlmacen\src\js\gestionarCategoria.js" />
+    <Content Include="GestionarAlmacen\gestionarMarca.aspx" />
+    <Content Include="GestionarAlmacen\src\js\gestionarMarca.js" />
+    <Content Include="GestionarAlmacen\src\js\gestionarNotaIngreso.js" />
+    <Content Include="GestionarAlmacen\src\js\gestionarProducto.js" />
+    <Content Include="GestionarCompra\gestionarCompra.aspx" />
+    <Content Include="GestionarCompra\gestionarContactoProveedor.aspx" />
+    <Content Include="GestionarCompra\gestionarCuentaProveedor.aspx" />
+    <Content Include="GestionarCompra\gestionarOrdenCompra.aspx" />
+    <Content Include="GestionarCompra\gestionarProveedor.aspx" />
+    <Content Include="GestionarAlmacen\gestionarProducto.aspx" />
+    <Content Include="GestionarCompra\src\js\gestionarCompra.js" />
+    <Content Include="GestionarCompra\src\js\gestionarContactoProveedor.js" />
+    <Content Include="GestionarCompra\src\js\gestionarCuentaProveedor.js" />
+    <Content Include="GestionarCompra\src\js\gestionarOrdenCompra.js" />
+    <Content Include="GestionarCompra\src\js\gestionarProveedor.js" />
+    <Content Include="GestionarLogistica\gestionarMoneda.aspx" />
+    <Content Include="GestionarLogistica\gestionarSucursal.aspx" />
+    <Content Include="GestionarLogistica\src\js\gestionarMoneda.js" />
+    <Content Include="GestionarLogistica\src\js\gestionarSucursal.js" />
+    <Content Include="GestionarMaestros\gestionarTipoDocumento.aspx" />
+    <Content Include="GestionarMaestros\gestionarTipoPago.aspx" />
+    <Content Include="GestionarMaestros\src\js\gestionarTipoDocumento.js" />
+    <Content Include="GestionarMaestros\src\js\gestionarTipoPago.js" />
+    <Content Include="GestionarProduccion\gestionarOrdenProduccion.aspx" />
+    <Content Include="GestionarProduccion\src\js\gestionarOrdenProduccion.js" />
+    <Content Include="GestionarRRHH\gestionarPersonal.aspx" />
+    <Content Include="GestionarRRHH\gestionarTipoPersonal.aspx" />
+    <Content Include="GestionarRRHH\src\js\gestionarTipoPersonal.js" />
+    <Content Include="GestionarVenta\gestionarTipoCliente.aspx" />
+    <Content Include="GestionarVenta\gestionarVenta.aspx">
+      <BrowseToURL>~/GestionarVenta/gestionarVenta.aspx</BrowseToURL>
+    </Content>
+    <Content Include="GestionarVenta\gestionarCliente.aspx" />
+    <Content Include="GestionarVenta\gestionarCuentaCliente.aspx" />
+    <Content Include="GestionarVenta\gestionarPedido.aspx" />
+    <Content Include="GestionarVenta\src\js\gestionarTipoCliente.js" />
+    <Content Include="GestionarVenta\src\js\gestionarVenta.js" />
+    <Content Include="GestionarVenta\src\js\gestionarCliente.js" />
+    <Content Include="GestionarVenta\src\js\gestionarCuentaCliente.js" />
+    <Content Include="GestionarVenta\src\js\gestionarPedido.js" />
+    <Content Include="Inicio.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="src\css\app.min.1.css" />
+    <Content Include="src\css\app.min.2.css" />
+    <Content Include="src\fonts\glyphicons-halflings-regular.html" />
+    <Content Include="src\img\300x200.gif" />
+    <Content Include="src\img\contacts\1.jpg" />
+    <Content Include="src\img\contacts\10.jpg" />
+    <Content Include="src\img\contacts\11.jpg" />
+    <Content Include="src\img\contacts\12.jpg" />
+    <Content Include="src\img\contacts\13.jpg" />
+    <Content Include="src\img\contacts\14.jpg" />
+    <Content Include="src\img\contacts\15.jpg" />
+    <Content Include="src\img\contacts\16.jpg" />
+    <Content Include="src\img\contacts\2.jpg" />
+    <Content Include="src\img\contacts\3.jpg" />
+    <Content Include="src\img\contacts\4.jpg" />
+    <Content Include="src\img\contacts\5.jpg" />
+    <Content Include="src\img\contacts\6.jpg" />
+    <Content Include="src\img\contacts\7.jpg" />
+    <Content Include="src\img\contacts\8.jpg" />
+    <Content Include="src\img\contacts\9.jpg" />
+    <Content Include="src\img\headers\sm\1.png" />
+    <Content Include="src\img\headers\sm\2.png" />
+    <Content Include="src\img\headers\sm\3.png" />
+    <Content Include="src\img\headers\sm\4.png" />
+    <Content Include="src\img\headers\sm\5.png" />
+    <Content Include="src\img\headers\sm\6.png" />
+    <Content Include="src\img\headers\sm\7.png" />
+    <Content Include="src\img\headers\sm\8.png" />
+    <Content Include="src\img\headers\sm\9.png" />
+    <Content Include="src\img\headers\square\1.png" />
+    <Content Include="src\img\headers\square\2.png" />
+    <Content Include="src\img\headers\square\3.png" />
+    <Content Include="src\img\headers\square\4.png" />
+    <Content Include="src\img\headers\square\5.png" />
+    <Content Include="src\img\headers\square\6.png" />
+    <Content Include="src\img\headers\square\7.png" />
+    <Content Include="src\img\headers\square\8.png" />
+    <Content Include="src\img\headers\square\9.png" />
+    <Content Include="src\img\icons\ellipsis%402x.png" />
+    <Content Include="src\img\icons\ellipsis.png" />
+    <Content Include="src\img\icons\fullscreen%402x.png" />
+    <Content Include="src\img\icons\fullscreen.png" />
+    <Content Include="src\img\icons\menu-2%402x.png" />
+    <Content Include="src\img\icons\menu-2.png" />
+    <Content Include="src\img\icons\message%402x.png" />
+    <Content Include="src\img\icons\message.png" />
+    <Content Include="src\img\icons\notification%402x.png" />
+    <Content Include="src\img\icons\notification.png" />
+    <Content Include="src\img\icons\pause%402x.png" />
+    <Content Include="src\img\icons\pause.png" />
+    <Content Include="src\img\icons\play%402x.png" />
+    <Content Include="src\img\icons\play.png" />
+    <Content Include="src\img\icons\search%402x.png" />
+    <Content Include="src\img\icons\search-2%402x.png" />
+    <Content Include="src\img\icons\search-2.png" />
+    <Content Include="src\img\icons\search.png" />
+    <Content Include="src\img\icons\speaker%402x.png" />
+    <Content Include="src\img\icons\speaker-2%402x.png" />
+    <Content Include="src\img\icons\speaker-2.png" />
+    <Content Include="src\img\icons\speaker.png" />
+    <Content Include="src\img\icons\task%402x.png" />
+    <Content Include="src\img\icons\task.png" />
+    <Content Include="src\img\icons\weather\0%402x.png" />
+    <Content Include="src\img\icons\weather\0.png" />
+    <Content Include="src\img\icons\weather\1%402x.png" />
+    <Content Include="src\img\icons\weather\1.png" />
+    <Content Include="src\img\icons\weather\18%402x.png" />
+    <Content Include="src\img\icons\weather\18.png" />
+    <Content Include="src\img\icons\weather\19%402x.png" />
+    <Content Include="src\img\icons\weather\19.png" />
+    <Content Include="src\img\icons\weather\2%402x.png" />
+    <Content Include="src\img\icons\weather\2.png" />
+    <Content Include="src\img\icons\weather\24%402x.png" />
+    <Content Include="src\img\icons\weather\24.png" />
+    <Content Include="src\img\icons\weather\26%402x.png" />
+    <Content Include="src\img\icons\weather\26.png" />
+    <Content Include="src\img\icons\weather\27%402x.png" />
+    <Content Include="src\img\icons\weather\27.png" />
+    <Content Include="src\img\icons\weather\28%402x.png" />
+    <Content Include="src\img\icons\weather\28.png" />
+    <Content Include="src\img\icons\weather\3%402x.png" />
+    <Content Include="src\img\icons\weather\3.png" />
+    <Content Include="src\img\icons\weather\31%402x.png" />
+    <Content Include="src\img\icons\weather\31.png" />
+    <Content Include="src\img\icons\weather\32%402x.png" />
+    <Content Include="src\img\icons\weather\32.png" />
+    <Content Include="src\img\icons\weather\5%402x.png" />
+    <Content Include="src\img\icons\weather\5.png" />
+    <Content Include="src\img\icons\weather\9%402x.png" />
+    <Content Include="src\img\icons\weather\9.png" />
+    <Content Include="src\img\notifications.png" />
+    <Content Include="src\img\profile-menu.png" />
+    <Content Include="src\img\profile-pics\1.jpg" />
+    <Content Include="src\img\profile-pics\2.jpg" />
+    <Content Include="src\img\profile-pics\3.jpg" />
+    <Content Include="src\img\profile-pics\4.jpg" />
+    <Content Include="src\img\profile-pics\5.jpg" />
+    <Content Include="src\img\profile-pics\6.jpg" />
+    <Content Include="src\img\profile-pics\7.jpg" />
+    <Content Include="src\img\profile-pics\8.jpg" />
+    <Content Include="src\img\profile-pics\profile-pic-2.jpg" />
+    <Content Include="src\img\profile-pics\profile-pic.jpg" />
+    <Content Include="src\img\select%402x.png" />
+    <Content Include="src\img\select.png" />
+    <Content Include="src\img\social\blogger-128.png" />
+    <Content Include="src\img\social\facebook-128.png" />
+    <Content Include="src\img\social\googleplus-128.png" />
+    <Content Include="src\img\social\linkedin-128.png" />
+    <Content Include="src\img\social\twitter-128.png" />
+    <Content Include="src\img\social\youtube-128.png" />
+    <Content Include="src\img\widgets\535.jpg" />
+    <Content Include="src\img\widgets\alpha.jpg" />
+    <Content Include="src\img\widgets\mate7.jpg" />
+    <Content Include="src\img\widgets\note4.jpg" />
+    <Content Include="src\img\widgets\preview.jpg" />
+    <Content Include="src\js\Base.js" />
+    <Content Include="src\js\bootstrap.min.js" />
+    <Content Include="src\js\charts.js" />
+    <Content Include="src\js\demo.js" />
+    <Content Include="src\js\flot-charts\bar-chart.js" />
+    <Content Include="src\js\flot-charts\curved-line-chart.js" />
+    <Content Include="src\js\flot-charts\dynamic-chart.js" />
+    <Content Include="src\js\flot-charts\line-chart.js" />
+    <Content Include="src\js\flot-charts\pie-chart.js" />
+    <Content Include="src\js\functions.js" />
+    <Content Include="src\js\jquery-2.1.1.min.js" />
+    <Content Include="src\media\big_buck_bunny-2.html" />
+    <Content Include="src\media\big_buck_bunny.html" />
+    <Content Include="src\media\big_buck_bunny.jpg" />
+    <Content Include="src\media\big_buck_bunny.mp4" />
+    <Content Include="src\media\carousel\c-1.jpg" />
+    <Content Include="src\media\carousel\c-2.jpg" />
+    <Content Include="src\media\carousel\c-3.jpg" />
+    <Content Include="src\media\flashmediaelement.swf" />
+    <Content Include="src\media\gallery\thumbs\1.jpg" />
+    <Content Include="src\media\gallery\thumbs\10.jpg" />
+    <Content Include="src\media\gallery\thumbs\11.jpg" />
+    <Content Include="src\media\gallery\thumbs\12.jpg" />
+    <Content Include="src\media\gallery\thumbs\13.jpg" />
+    <Content Include="src\media\gallery\thumbs\14.jpg" />
+    <Content Include="src\media\gallery\thumbs\15.jpg" />
+    <Content Include="src\media\gallery\thumbs\16.jpg" />
+    <Content Include="src\media\gallery\thumbs\18.jpg" />
+    <Content Include="src\media\gallery\thumbs\19.jpg" />
+    <Content Include="src\media\gallery\thumbs\2.jpg" />
+    <Content Include="src\media\gallery\thumbs\20.jpg" />
+    <Content Include="src\media\gallery\thumbs\21.jpg" />
+    <Content Include="src\media\gallery\thumbs\22.jpg" />
+    <Content Include="src\media\gallery\thumbs\23.jpg" />
+    <Content Include="src\media\gallery\thumbs\24.jpg" />
+    <Content Include="src\media\gallery\thumbs\3.jpg" />
+    <Content Include="src\media\gallery\thumbs\4.jpg" />
+    <Content Include="src\media\gallery\thumbs\5.jpg" />
+    <Content Include="src\media\gallery\thumbs\6.jpg" />
+    <Content Include="src\media\gallery\thumbs\7.jpg" />
+    <Content Include="src\media\gallery\thumbs\8.jpg" />
+    <Content Include="src\media\gallery\thumbs\9.jpg" />
+    <Content Include="src\vendors\animate-css\animate.min.css" />
+    <Content Include="src\vendors\auto-size\jquery.autosize.min.js" />
+    <Content Include="src\vendors\bootgrid\jquery.bootgrid.min.css" />
+    <Content Include="src\vendors\bootgrid\jquery.bootgrid.min.js" />
+    <Content Include="src\vendors\bootstrap-datetimepicker\bootstrap-datetimepicker.min.js" />
+    <Content Include="src\vendors\bootstrap-growl\bootstrap-growl.min.js" />
+    <Content Include="src\vendors\bootstrap-select\bootstrap-select.min.js" />
+    <Content Include="src\vendors\bootstrap-wizard\jquery.bootstrap.wizard.min.js" />
+    <Content Include="src\vendors\chosen\chosen.jquery.min.js" />
+    <Content Include="src\vendors\chosen\chosen.min.css" />
+    <Content Include="src\vendors\easypiechart\jquery.easypiechart.min.js" />
+    <Content Include="src\vendors\farbtastic\farbtastic.css" />
+    <Content Include="src\vendors\farbtastic\farbtastic.min.js" />
+    <Content Include="src\vendors\farbtastic\marker.png" />
+    <Content Include="src\vendors\farbtastic\mask.png" />
+    <Content Include="src\vendors\farbtastic\wheel.png" />
+    <Content Include="src\vendors\fileinput\fileinput.min.js" />
+    <Content Include="src\vendors\flot\jquery.flot.min.js" />
+    <Content Include="src\vendors\flot\jquery.flot.orderBar.js" />
+    <Content Include="src\vendors\flot\jquery.flot.pie.min.js" />
+    <Content Include="src\vendors\flot\jquery.flot.resize.min.js" />
+    <Content Include="src\vendors\flot\jquery.flot.tooltip.js" />
+    <Content Include="src\vendors\flot\plugins\curvedLines.js" />
+    <Content Include="src\vendors\fonts\Slide-icons.html" />
+    <Content Include="src\vendors\fullcalendar\fullcalendar.css" />
+    <Content Include="src\vendors\fullcalendar\fullcalendar.min.js" />
+    <Content Include="src\vendors\fullcalendar\lib\moment.min.js" />
+    <Content Include="src\vendors\input-mask\input-mask.min.js" />
+    <Content Include="src\vendors\light-gallery\lightGallery.min.css" />
+    <Content Include="src\vendors\light-gallery\lightGallery.min.js" />
+    <Content Include="src\vendors\material-icons\material-design-iconic-font.min.css" />
+    <Content Include="src\vendors\mediaelement\background.png" />
+    <Content Include="src\vendors\mediaelement\bigplay.png" />
+    <Content Include="src\vendors\mediaelement\controls.png" />
+    <Content Include="src\vendors\mediaelement\loading.gif" />
+    <Content Include="src\vendors\mediaelement\mediaelement-and-player.min.js" />
+    <Content Include="src\vendors\mediaelement\mediaelementplayer.css" />
+    <Content Include="src\vendors\mediaelement\skipback.png" />
+    <Content Include="src\vendors\moment\moment.min.js" />
+    <Content Include="src\vendors\nicescroll\jquery.nicescroll.min.js" />
+    <Content Include="src\vendors\noUiSlider\jquery.nouislider.all.min.js" />
+    <Content Include="src\vendors\noUiSlider\jquery.nouislider.min.css" />
+    <Content Include="src\vendors\simpleWeather\jquery.simpleWeather.min.js" />
+    <Content Include="src\vendors\socicon\socicon.min.css" />
+    <Content Include="src\vendors\sparklines\jquery.sparkline.min.js" />
+    <Content Include="src\vendors\summernote\summernote.css" />
+    <Content Include="src\vendors\summernote\summernote.min.js" />
+    <Content Include="src\vendors\sweet-alert\sweet-alert.min.css" />
+    <Content Include="src\vendors\sweet-alert\sweet-alert.min.js" />
+    <Content Include="src\vendors\waves\waves.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GestionarAlmacen\gestionarCategoria.aspx.cs">
+      <DependentUpon>gestionarCategoria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarAlmacen\gestionarCategoria.aspx.designer.cs">
+      <DependentUpon>gestionarCategoria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarAlmacen\gestionarMarca.aspx.cs">
+      <DependentUpon>gestionarMarca.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarAlmacen\gestionarMarca.aspx.designer.cs">
+      <DependentUpon>gestionarMarca.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarAlmacen\gestionarNotaIngreso.aspx.cs">
+      <DependentUpon>gestionarNotaIngreso.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarAlmacen\gestionarNotaIngreso.aspx.designer.cs">
+      <DependentUpon>gestionarNotaIngreso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarCompra\gestionarCompra.aspx.cs">
+      <DependentUpon>gestionarCompra.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarCompra\gestionarCompra.aspx.designer.cs">
+      <DependentUpon>gestionarCompra.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarCompra\gestionarContactoProveedor.aspx.cs">
+      <DependentUpon>gestionarContactoProveedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarCompra\gestionarContactoProveedor.aspx.designer.cs">
+      <DependentUpon>gestionarContactoProveedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarCompra\gestionarCuentaProveedor.aspx.cs">
+      <DependentUpon>gestionarCuentaProveedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarCompra\gestionarCuentaProveedor.aspx.designer.cs">
+      <DependentUpon>gestionarCuentaProveedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarCompra\gestionarOrdenCompra.aspx.cs">
+      <DependentUpon>gestionarOrdenCompra.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarCompra\gestionarOrdenCompra.aspx.designer.cs">
+      <DependentUpon>gestionarOrdenCompra.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarCompra\gestionarProveedor.aspx.cs">
+      <DependentUpon>gestionarProveedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarCompra\gestionarProveedor.aspx.designer.cs">
+      <DependentUpon>gestionarProveedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarAlmacen\gestionarProducto.aspx.cs">
+      <DependentUpon>gestionarProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarAlmacen\gestionarProducto.aspx.designer.cs">
+      <DependentUpon>gestionarProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarLogistica\gestionarMoneda.aspx.cs">
+      <DependentUpon>gestionarMoneda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarLogistica\gestionarMoneda.aspx.designer.cs">
+      <DependentUpon>gestionarMoneda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarLogistica\gestionarSucursal.aspx.cs">
+      <DependentUpon>gestionarSucursal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarLogistica\gestionarSucursal.aspx.designer.cs">
+      <DependentUpon>gestionarSucursal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarMaestros\gestionarTipoDocumento.aspx.cs">
+      <DependentUpon>gestionarTipoDocumento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarMaestros\gestionarTipoDocumento.aspx.designer.cs">
+      <DependentUpon>gestionarTipoDocumento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarMaestros\gestionarTipoPago.aspx.cs">
+      <DependentUpon>gestionarTipoPago.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarMaestros\gestionarTipoPago.aspx.designer.cs">
+      <DependentUpon>gestionarTipoPago.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarProduccion\gestionarOrdenProduccion.aspx.cs">
+      <DependentUpon>gestionarOrdenProduccion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarProduccion\gestionarOrdenProduccion.aspx.designer.cs">
+      <DependentUpon>gestionarOrdenProduccion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarRRHH\gestionarPersonal.aspx.cs">
+      <DependentUpon>gestionarPersonal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarRRHH\gestionarPersonal.aspx.designer.cs">
+      <DependentUpon>gestionarPersonal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarRRHH\gestionarTipoPersonal.aspx.cs">
+      <DependentUpon>gestionarTipoPersonal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarRRHH\gestionarTipoPersonal.aspx.designer.cs">
+      <DependentUpon>gestionarTipoPersonal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarVenta\gestionarTipoCliente.aspx.cs">
+      <DependentUpon>gestionarTipoCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarVenta\gestionarTipoCliente.aspx.designer.cs">
+      <DependentUpon>gestionarTipoCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarVenta\gestionarVenta.aspx.cs">
+      <DependentUpon>gestionarVenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarVenta\gestionarVenta.aspx.designer.cs">
+      <DependentUpon>gestionarVenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarVenta\gestionarCliente.aspx.cs">
+      <DependentUpon>gestionarCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarVenta\gestionarCliente.aspx.designer.cs">
+      <DependentUpon>gestionarCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarVenta\gestionarCuentaCliente.aspx.cs">
+      <DependentUpon>gestionarCuentaCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarVenta\gestionarCuentaCliente.aspx.designer.cs">
+      <DependentUpon>gestionarCuentaCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarVenta\gestionarPedido.aspx.cs">
+      <DependentUpon>gestionarPedido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionarVenta\gestionarPedido.aspx.designer.cs">
+      <DependentUpon>gestionarPedido.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.aspx.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inicio.aspx.designer.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.Master.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Principal.Master.designer.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\control\clsEncriptacion.cs" />
+    <Compile Include="src\control\clsSesionBase.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Principal.Master" />
+    <Content Include="src\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="src\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="src\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="src\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="src\fonts\glyphicons-halflings-regulard41d.eot" />
+    <Content Include="src\fonts\weather-icons\weather-icons.eot" />
+    <Content Include="src\fonts\weather-icons\weather-icons.svg" />
+    <Content Include="src\fonts\weather-icons\weather-icons.ttf" />
+    <Content Include="src\fonts\weather-icons\weather-icons.woff" />
+    <Content Include="src\fonts\weather-icons\weather-iconsd41d.eot" />
+    <Content Include="src\img\Thumbs.db" />
+    <Content Include="src\vendors\material-icons\fonts\Material-Design-Iconic-Fontd41d.eot" />
+    <Content Include="src\vendors\material-icons\fonts\Material-Design-Iconic-Fontf700.eot" />
+    <Content Include="src\vendors\material-icons\fonts\Material-Design-Iconic-Fontf700.svg" />
+    <Content Include="src\vendors\material-icons\fonts\Material-Design-Iconic-Fontf700.ttf" />
+    <Content Include="src\vendors\material-icons\fonts\Material-Design-Iconic-Fontf700.woff" />
+    <Content Include="src\vendors\mediaelement\bigplay.svg" />
+    <Content Include="src\vendors\socicon\fonts\socicon-webfont.eot" />
+    <Content Include="src\vendors\socicon\fonts\socicon-webfont.svg" />
+    <Content Include="src\vendors\socicon\fonts\socicon-webfont.ttf" />
+    <Content Include="src\vendors\socicon\fonts\socicon-webfont.woff" />
+    <Content Include="src\vendors\socicon\fonts\socicon-webfontd41d.eot" />
+    <Content Include="src\fonts\roboto\Material-Design-Iconic-Font.woff" />
+    <Content Include="src\fonts\roboto\Roboto-Bold-webfont.woff" />
+    <Content Include="src\fonts\roboto\Roboto-Light-webfont.woff" />
+    <Content Include="src\fonts\roboto\Roboto-Medium-webfont.woff" />
+    <Content Include="src\fonts\roboto\Roboto-Regular-webfont.woff" />
+    <None Include="Properties\PublishProfiles\AppBlankito_Alexis.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Datos.Almacen\Datos.Almacen.csproj">
+      <Project>{a40af64c-3b59-4db8-a88f-a59a9c9f9018}</Project>
+      <Name>Datos.Almacen</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos.Compras\Datos.Compras.csproj">
+      <Project>{9a1bdcb4-6277-4d61-9eb0-dc37762d784b}</Project>
+      <Name>Datos.Compras</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos.Comunes\Datos.Comunes.csproj">
+      <Project>{3ab88a58-c0a8-49fa-bb5f-53e689702827}</Project>
+      <Name>Datos.Comunes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos.Logistica\Datos.Logistica.csproj">
+      <Project>{5a0c8b07-d522-4f0f-b7d0-610ea12f878d}</Project>
+      <Name>Datos.Logistica</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos.Produccion\Datos.Produccion.csproj">
+      <Project>{6cc708bc-eee5-482a-b45c-5d2bdba4f257}</Project>
+      <Name>Datos.Produccion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos.RRHH\Datos.RRHH.csproj">
+      <Project>{6111fedd-5c37-4e7a-9203-2143771f655e}</Project>
+      <Name>Datos.RRHH</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos.Seguridad\Datos.Seguridad.csproj">
+      <Project>{1e2bf48e-e51e-456f-8e12-bd282fc17288}</Project>
+      <Name>Datos.Seguridad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos.Ventas\Datos.Ventas.csproj">
+      <Project>{9c53f05d-b6d8-452d-8f69-e6fc6e48a09b}</Project>
+      <Name>Datos.Ventas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidad.Almacen\Entidad.Almacen.csproj">
+      <Project>{25af7136-fd7e-4b58-8898-641b04771c0c}</Project>
+      <Name>Entidad.Almacen</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidad.Compras\Entidad.Compras.csproj">
+      <Project>{f9a28c8b-9d66-4068-bcbd-460b55407992}</Project>
+      <Name>Entidad.Compras</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidad.Comunes\Entidad.Comunes.csproj">
+      <Project>{c44c304a-d5e1-485a-8356-97f401fdb295}</Project>
+      <Name>Entidad.Comunes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidad.Logistica\Entidad.Logistica.csproj">
+      <Project>{4b58ac6f-ad5e-48ec-9306-94582cd65925}</Project>
+      <Name>Entidad.Logistica</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidad.Produccion\Entidad.Produccion.csproj">
+      <Project>{d6bc698d-7925-4cfe-9076-d30ad441fc3a}</Project>
+      <Name>Entidad.Produccion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidad.RRHH\Entidad.RRHH.csproj">
+      <Project>{b2fffa2c-235c-4f7e-b130-3f1746747994}</Project>
+      <Name>Entidad.RRHH</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidad.Seguridad\Entidad.Seguridad.csproj">
+      <Project>{43cead09-d799-4840-82bd-4d7b57147ac3}</Project>
+      <Name>Entidad.Seguridad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidad.Ventas\Entidad.Ventas.csproj">
+      <Project>{cbf8c8a4-5469-4a9e-ad48-5f96fd7b7cd6}</Project>
+      <Name>Entidad.Ventas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio.Almacen\Negocio.Almacen.csproj">
+      <Project>{a19467cf-b527-46b2-a6f8-3731275909a2}</Project>
+      <Name>Negocio.Almacen</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio.Compras\Negocio.Compras.csproj">
+      <Project>{b026dc9c-b8a8-45bd-a88a-d68ab3374688}</Project>
+      <Name>Negocio.Compras</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio.Comunes\Negocio.Comunes.csproj">
+      <Project>{8e710040-6b18-4545-a51f-4f2b2e97ca50}</Project>
+      <Name>Negocio.Comunes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio.Logistica\Negocio.Logistica.csproj">
+      <Project>{28df6454-f70d-4008-bda8-928071cada2c}</Project>
+      <Name>Negocio.Logistica</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio.Produccion\Negocio.Produccion.csproj">
+      <Project>{55732f9b-6e0d-4449-8416-a75dad8a4bb3}</Project>
+      <Name>Negocio.Produccion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio.RRHH\Negocio.RRHH.csproj">
+      <Project>{cbed141e-3d65-4fba-9ae9-fe5e2f03e7e8}</Project>
+      <Name>Negocio.RRHH</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio.Seguridad\Negocio.Seguridad.csproj">
+      <Project>{9798e8eb-024e-484a-b071-0514905a7e08}</Project>
+      <Name>Negocio.Seguridad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio.Ventas\Negocio.Ventas.csproj">
+      <Project>{6df17c87-1e95-47ca-b307-b88cb53b487d}</Project>
+      <Name>Negocio.Ventas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>18745</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:18745/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

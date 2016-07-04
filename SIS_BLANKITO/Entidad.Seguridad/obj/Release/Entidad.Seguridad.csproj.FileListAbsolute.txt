@@ -1,0 +1,18 @@
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.Seguridad.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.RRHH.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.Logistica.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.RRHH.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.Logistica.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Seguridad\obj\Release\Entidad.Seguridad.csprojResolveAssemblyReference.cache
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Seguridad\obj\Release\Entidad.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Seguridad\obj\Release\Entidad.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Seguridad\bin\Release\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Seguridad\obj\Release\Entidad.Seguridad.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Seguridad\obj\Release\Entidad.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Seguridad\obj\Release\Entidad.Seguridad.pdb

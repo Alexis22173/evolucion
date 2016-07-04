@@ -1,0 +1,42 @@
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Produccion.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Produccion.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Almacen.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Logistica.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Produccion.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.RRHH.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Comunes.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Seguridad.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Almacen.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Comunes.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Logistica.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Produccion.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Seguridad.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.RRHH.pdb
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\obj\Release\Datos.Produccion.csprojResolveAssemblyReference.cache
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\obj\Release\Datos.Produccion.dll
+G:\PROYINT 2\SIS_BLANKITO\Datos.Produccion\obj\Release\Datos.Produccion.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Produccion.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Produccion.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Produccion.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Datos.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Produccion.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\bin\Release\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\obj\Release\Datos.Produccion.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\obj\Release\Datos.Produccion.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Datos.Produccion\obj\Release\Datos.Produccion.pdb

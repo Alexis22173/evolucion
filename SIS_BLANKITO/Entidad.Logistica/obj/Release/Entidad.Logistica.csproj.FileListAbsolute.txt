@@ -1,0 +1,9 @@
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Logistica\bin\Release\Entidad.Logistica.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Logistica\bin\Release\Entidad.Logistica.pdb
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Logistica\obj\Release\Entidad.Logistica.dll
+G:\PROYINT 2\SIS_BLANKITO\Entidad.Logistica\obj\Release\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Logistica\bin\Release\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Logistica\bin\Release\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Logistica\obj\Release\Entidad.Logistica.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Logistica\obj\Release\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Logistica\obj\Release\Entidad.Logistica.pdb

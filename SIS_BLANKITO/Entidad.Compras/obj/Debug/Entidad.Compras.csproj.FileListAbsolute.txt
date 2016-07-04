@@ -1,0 +1,68 @@
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.pdb
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.dll
+D:\UPN\PROYECTO INTEGRADOR II\MATERIAL DESIGN\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Seguridad.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.RRHH.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Logistica.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Seguridad.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.RRHH.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Logistica.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.csprojResolveAssemblyReference.cache
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Almacen.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Almacen.pdb
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Comunes.dll
+D:\UPN\PROYECTO INTEGRADOR II\SVN\SIS_BLANKITO\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Comunes.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Almacen.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Comunes.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Logistica.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Seguridad.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.RRHH.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Almacen.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Comunes.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Logistica.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Seguridad.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.RRHH.pdb
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.csprojResolveAssemblyReference.cache
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.dll
+I:\PROYINT 2\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Almacen.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Comunes.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Logistica.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Seguridad.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.RRHH.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Almacen.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Comunes.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Logistica.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Seguridad.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.RRHH.pdb
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.csprojResolveAssemblyReference.cache
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.dll
+I:\ETC\UPN 2015-II\PROIN2\PROIN-II\GarciaM_RiosB\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Compras.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\bin\Debug\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Entidad.Compras\obj\Debug\Entidad.Compras.pdb

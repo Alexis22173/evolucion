@@ -1,0 +1,46 @@
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Negocio.Compras.dll
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Negocio.Compras.pdb
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Compras.dll
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Compras.dll
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Comunes.dll
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Seguridad.dll
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Logistica.dll
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Almacen.dll
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.RRHH.dll
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Compras.pdb
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Comunes.pdb
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Compras.pdb
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Comunes.pdb
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Seguridad.pdb
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Seguridad.pdb
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Logistica.pdb
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Almacen.pdb
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.RRHH.pdb
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\obj\Release\Negocio.Compras.csprojResolveAssemblyReference.cache
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\obj\Release\Negocio.Compras.dll
+G:\PROYINT 2\SIS_BLANKITO\Negocio.Compras\obj\Release\Negocio.Compras.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Negocio.Compras.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Negocio.Compras.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Compras.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Compras.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Comunes.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Seguridad.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Logistica.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Almacen.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.RRHH.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Compras.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Compras.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Comunes.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Datos.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Seguridad.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Logistica.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.Almacen.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\bin\Release\Entidad.RRHH.pdb
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\obj\Release\Negocio.Compras.csprojResolveAssemblyReference.cache
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\obj\Release\Negocio.Compras.dll
+C:\Users\AlexisS7\Documents\Visual Studio 2013\Projects\SIS_BLANKITO\Negocio.Compras\obj\Release\Negocio.Compras.pdb
